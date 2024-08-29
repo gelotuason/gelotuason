@@ -1,4 +1,18 @@
-## Hi there 👋
+## About me
+I'm **Ferangelo Tuason**, Front End Web Developer.
+
+## Skills
+> Languages
+- HTML, CSS, Javascript
+> Technologies
+- ReactJS, NextJS, Firebase, Shadcn UI, Tailwind CSS, Material-UI, Bootstrap
+> Tools
+- Visual Studio Code, Git, GitHub, Figma
+
+# How to reach me
+- Mail: gelotuason@gmail.com
+- Whatsapp: 09367027624
+- Linkedin: Ferangelo Tuason
 
 <!--
 **gelotuason/gelotuason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
