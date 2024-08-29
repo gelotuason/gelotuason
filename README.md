@@ -2,25 +2,9 @@
 I'm **Ferangelo Tuason**, Web Developer.
 
 ## 🚀 Skills
-> Languages
-- HTML
-- CSS
-- Javascript
-- Typescript
-  
-> Front End Development
-- ReactJS
-- NextJS
-- Tailwind CSS
-- Shadcn/UI
-- Material-UI
-- Bootstrap
-  
-> Back End Development
-- Firebase
-- Prisma
-- PostreSQL
-- MySQL
+- Languages: HTML, CSS, Javascript, Typescript
+- Front End Development:  ReactJS, NextJS, Tailwind CSS, Shadcn/UI, Material-UI, Bootstrap
+- Back End Development: Firebase, Prisma, PostreSQL, MySQL
 
 # 📞 How to reach me
 - Mail: gelotuason@gmail.com
