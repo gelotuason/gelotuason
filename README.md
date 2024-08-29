@@ -1,15 +1,28 @@
-## About me
-I'm **Ferangelo Tuason**, Front End Web Developer.
+## 🙋‍♂️ About me
+I'm **Ferangelo Tuason**, Web Developer.
 
-## Skills
+## 🚀 Skills
 > Languages
-- HTML, CSS, Javascript
-> Technologies
-- ReactJS, NextJS, Firebase, Shadcn UI, Tailwind CSS, Material-UI, Bootstrap
-> Tools
-- Visual Studio Code, Git, GitHub, Figma
+- HTML
+- CSS
+- Javascript
+- Typescript
+  
+> Front End Development
+- ReactJS
+- NextJS
+- Tailwind CSS
+- Shadcn/UI
+- Material-UI
+- Bootstrap
+  
+> Back End Development
+- Firebase
+- Prisma
+- PostreSQL
+- MySQL
 
-# How to reach me
+# 📞 How to reach me
 - Mail: gelotuason@gmail.com
 - Whatsapp: 09367027624
 - Linkedin: Ferangelo Tuason
