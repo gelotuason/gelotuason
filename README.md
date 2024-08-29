@@ -1,5 +1,8 @@
 ## 🙋‍♂️ About me
-I'm **Ferangelo Tuason**, Web Developer.
+I'm **Ferangelo Tuason**, a Web Developer passionate about creating a dynamic and user-friendly applications.
+I enjoy building personal projects that challenge me to learn new technologies and improve my skills.
+
+I'm also looking for new opportunities where I can contribute my skills and grow in a collaborative environment.
 
 ## 🚀 Skills
 - Languages: HTML, CSS, Javascript, Typescript
