@@ -1,5 +1,7 @@
 ## 🙋‍♂️ About me
-I'm **Ferangelo Tuason**, a passionate front-end developer creating a dynamic and user-friendly applications.
+Hello, I'm **Ferangelo Tuason** 👋
+
+A passionate front-end developer creating a dynamic and user-friendly applications.
 I enjoy building personal projects that drive me to advance my skill set.
 
 I'm also looking for new opportunities where I can contribute my skills and grow in a collaborative environment.
