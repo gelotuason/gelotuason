@@ -1,6 +1,6 @@
 ## 🙋‍♂️ About me
-I'm **Ferangelo Tuason**, a Front End Web Developer passionate about creating a dynamic and user-friendly applications.
-I enjoy building personal projects that challenge me to learn new technologies and improve my skills.
+I'm **Ferangelo Tuason**, a passionate front-end developer creating a dynamic and user-friendly applications.
+I enjoy building personal projects that drive me to advance my skill set.
 
 I'm also looking for new opportunities where I can contribute my skills and grow in a collaborative environment.
 
@@ -9,7 +9,7 @@ I'm also looking for new opportunities where I can contribute my skills and grow
 - Front End Development:  ReactJS, NextJS, Tailwind CSS, Shadcn/UI, Material-UI, Bootstrap
 - Back End Development: Firebase, Prisma, PostreSQL, MySQL
 
-# 📞 How to reach me
+## 📞 How to reach me
 - Mail: gelotuason@gmail.com
 - Whatsapp: 09367027624
 - Linkedin: Ferangelo Tuason
