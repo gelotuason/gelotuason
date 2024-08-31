@@ -1,17 +1,20 @@
-## 🙋‍♂️ About me
-Hello, I'm **Ferangelo Tuason** 👋
+# 👋 hi there, I'm **Gelo**
 
-A passionate front-end developer creating a dynamic and user-friendly applications.
-I enjoy building personal projects that drive me to advance my skill set.
+I'm a front-end developer who loves building stuffs. I'm seeking new opportunities where I can contribute and leverage my skills within a collaborative environment.
 
-I'm also looking for new opportunities where I can contribute my skills and grow in a collaborative environment.
+## projects
 
-## 🚀 Skills
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gelotuason&repo=ferangelo-tuason&theme=apprentice&show_owner=true)](https://github.com/gelotuason/ferangelo-tuason)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gelotuason&repo=Social_Media_App&theme=apprentice&show_owner=true)](https://github.com/gelotuason/Social_Media_App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gelotuason&repo=employee-management-dashboard&theme=apprentice&show_owner=true)](https://github.com/gelotuason/employee-management-dashboard)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gelotuason&repo=blackjack-card-game&theme=apprentice&show_owner=true)](https://github.com/gelotuason/blackjack-card-game)
+
+## skills
 - Languages: HTML, CSS, Javascript, Typescript
 - Front End Development:  ReactJS, NextJS, Tailwind CSS, Shadcn/UI, Material-UI, Bootstrap
 - Back End Development: Firebase, Prisma, PostreSQL, MySQL
 
-## 📞 How to reach me
+## contact me
 - Mail: gelotuason@gmail.com
 - Whatsapp: 09367027624
 - Linkedin: Ferangelo Tuason
