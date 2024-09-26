@@ -5,8 +5,8 @@ I'm an enthusiastic front-end developer and optimist. I build stuffs out of curi
 ## projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gelotuason&repo=ferangelo-tuason&theme=apprentice&show_owner=true)](https://github.com/gelotuason/ferangelo-tuason)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gelotuason&repo=Social_Media_App&theme=apprentice&show_owner=true)](https://github.com/gelotuason/Social_Media_App)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gelotuason&repo=employee-management-dashboard&theme=apprentice&show_owner=true)](https://github.com/gelotuason/employee-management-dashboard)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gelotuason&repo=Social_Media_App&theme=apprentice&show_owner=true)](https://github.com/gelotuason/Social_Media_App)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gelotuason&repo=blackjack-card-game&theme=apprentice&show_owner=true)](https://github.com/gelotuason/blackjack-card-game)
 
 ## skills
