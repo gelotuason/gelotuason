@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm **Gelo**
 
-I'm an optimistic front-end developer. I build stuffs out of curiosity and are designed to support my top goal. I'm actively seeking new opportunities where I can contribute and leverage my skills within a collaborative environment.
+I'm a front-end developer with a passion in developing user-centric applications. I constantly build stuff to advance my skill set further. I'm actively seeking new opportunities where I can contribute and leverage my skills within a collaborative environment.
 
 ## Projects
 
