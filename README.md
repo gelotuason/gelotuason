@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm **Gelo**
 
-I'm a front-end developer with a passion in developing user-centric applications. I constantly build web stuff to advance my skill set further. I'm actively seeking new opportunities where I can contribute and leverage my skills within a collaborative environment.
+I'm a front-end developer with a passion in developing efficient and user-centric applications. I persistently build web stuff to advance my skill set further. I'm actively seeking new opportunities where I can contribute and leverage my skills within a collaborative environment.
 
 ## Skills
 - Languages: HTML, CSS, Javascript, Typescript
